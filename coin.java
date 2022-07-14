@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 class coin{
@@ -27,6 +26,5 @@ class coin{
  	    }
  	}
  	System.out.println("Heads: "+countH+", Tails: "+countT);
-    }	
+    }
 }
-
