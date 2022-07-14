@@ -18,6 +18,12 @@ class coin{
 	    }
 	}
 	System.out.println("Heads: "+countH+", Tails: "+countT);
-    }	
+    }
+    if(countH >countT){
+	System.out.println("John won!");
+    }
+    else{
+	System.out.println("John lost!");
+    }
 }
 
